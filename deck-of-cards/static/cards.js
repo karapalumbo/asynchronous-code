@@ -50,14 +50,3 @@ $(function () {
   });
 });
 
-// function handleResponse(resp) {
-//   for (let img of resp.data.cards[0].images.png) {
-//     let i = `<img src="${img}" alt="image of playing card">`;
-//     cards.append(i);
-//   }
-// }
-
-// $("#card-form").on("submit", processForm);
-
-// res.data.remaining
-// https://deckofcardsapi.com/api/deck/new/shuffle/
